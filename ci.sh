@@ -1,1 +1,1 @@
-echo 'hello,ci-test'
+echo 'hello, ci'

@@ -1,1 +1,1 @@
-echo 'hello, ci'
+echo "hello, ci!"
